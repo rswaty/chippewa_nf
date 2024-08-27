@@ -1,0 +1,61 @@
+"","BpS_Name","refLabel","refCur","Percent"
+"1","Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated","A","refPercent",17
+"2","Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated","A","currentPercent",2
+"3","Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated","B","refPercent",18
+"4","Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated","B","currentPercent",62
+"5","Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated","C","refPercent",16
+"6","Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated","C","currentPercent",NA
+"7","Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated","D","refPercent",18
+"8","Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated","D","currentPercent",19
+"9","Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated","E","refPercent",31
+"10","Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated","E","currentPercent",0
+"11","Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated","Agriculture","refPercent",0
+"12","Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated","Agriculture","currentPercent",2
+"13","Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated","Developed","refPercent",0
+"14","Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated","Developed","currentPercent",6
+"15","Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated","Water","refPercent",0
+"16","Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated","Water","currentPercent",NA
+"17","Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated","UN","refPercent",0
+"18","Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated","UN","currentPercent",4
+"19","Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated","UE","refPercent",0
+"20","Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated","UE","currentPercent",2
+"21","Boreal White Spruce-Fir-Hardwood Forest - Inland","A","refPercent",12
+"22","Boreal White Spruce-Fir-Hardwood Forest - Inland","A","currentPercent",2
+"23","Boreal White Spruce-Fir-Hardwood Forest - Inland","B","refPercent",5
+"24","Boreal White Spruce-Fir-Hardwood Forest - Inland","B","currentPercent",0
+"25","Boreal White Spruce-Fir-Hardwood Forest - Inland","C","refPercent",15
+"26","Boreal White Spruce-Fir-Hardwood Forest - Inland","C","currentPercent",2
+"27","Boreal White Spruce-Fir-Hardwood Forest - Inland","D","refPercent",68
+"28","Boreal White Spruce-Fir-Hardwood Forest - Inland","D","currentPercent",84
+"29","Boreal White Spruce-Fir-Hardwood Forest - Inland","E","refPercent",NA
+"30","Boreal White Spruce-Fir-Hardwood Forest - Inland","E","currentPercent",NA
+"31","Boreal White Spruce-Fir-Hardwood Forest - Inland","Agriculture","refPercent",0
+"32","Boreal White Spruce-Fir-Hardwood Forest - Inland","Agriculture","currentPercent",4
+"33","Boreal White Spruce-Fir-Hardwood Forest - Inland","Developed","refPercent",0
+"34","Boreal White Spruce-Fir-Hardwood Forest - Inland","Developed","currentPercent",3
+"35","Boreal White Spruce-Fir-Hardwood Forest - Inland","Water","refPercent",0
+"36","Boreal White Spruce-Fir-Hardwood Forest - Inland","Water","currentPercent",NA
+"37","Boreal White Spruce-Fir-Hardwood Forest - Inland","UN","refPercent",0
+"38","Boreal White Spruce-Fir-Hardwood Forest - Inland","UN","currentPercent",NA
+"39","Boreal White Spruce-Fir-Hardwood Forest - Inland","UE","refPercent",0
+"40","Boreal White Spruce-Fir-Hardwood Forest - Inland","UE","currentPercent",1
+"41","Boreal Acidic Peatland Systems","A","refPercent",14
+"42","Boreal Acidic Peatland Systems","A","currentPercent",6
+"43","Boreal Acidic Peatland Systems","B","refPercent",16
+"44","Boreal Acidic Peatland Systems","B","currentPercent",5
+"45","Boreal Acidic Peatland Systems","C","refPercent",38
+"46","Boreal Acidic Peatland Systems","C","currentPercent",29
+"47","Boreal Acidic Peatland Systems","D","refPercent",23
+"48","Boreal Acidic Peatland Systems","D","currentPercent",54
+"49","Boreal Acidic Peatland Systems","E","refPercent",9
+"50","Boreal Acidic Peatland Systems","E","currentPercent",0
+"51","Boreal Acidic Peatland Systems","Agriculture","refPercent",0
+"52","Boreal Acidic Peatland Systems","Agriculture","currentPercent",0
+"53","Boreal Acidic Peatland Systems","Developed","refPercent",0
+"54","Boreal Acidic Peatland Systems","Developed","currentPercent",0
+"55","Boreal Acidic Peatland Systems","Water","refPercent",0
+"56","Boreal Acidic Peatland Systems","Water","currentPercent",NA
+"57","Boreal Acidic Peatland Systems","UN","refPercent",0
+"58","Boreal Acidic Peatland Systems","UN","currentPercent",3
+"59","Boreal Acidic Peatland Systems","UE","refPercent",0
+"60","Boreal Acidic Peatland Systems","UE","currentPercent",0

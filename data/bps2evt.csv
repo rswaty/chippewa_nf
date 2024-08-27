@@ -1,0 +1,821 @@
+"","BPS_ID","EVT_ID","freq","acres","GROUPVEG","bps_acres","EVT_PHYS","evt_acres"
+"1",11,7292,1300756,289281,"BPS  Open Water",289281,"EVT  Open Water",289281
+"2",1588,7238,12,3,"BPS  Hardwood",42168,"EVT  Hardwood",308
+"3",1588,7239,70,16,"BPS  Hardwood",42168,"EVT  Conifer-Hardwood",2152
+"4",1588,7242,3,1,"BPS  Hardwood",42168,"EVT  Hardwood",49
+"5",1588,7243,2,0,"BPS  Hardwood",42168,"EVT  Conifer-Hardwood",47
+"6",1588,7296,186,41,"BPS  Hardwood",42168,"EVT  Developed-Low Intensity",1615
+"7",1588,7297,137,30,"BPS  Hardwood",42168,"EVT  Developed-Medium Intensity",715
+"8",1588,7298,96,21,"BPS  Hardwood",42168,"EVT  Developed-High Intensity",279
+"9",1588,7299,5061,1126,"BPS  Hardwood",42168,"EVT  Developed-Roads",34026
+"10",1588,7301,1032,230,"BPS  Hardwood",42168,"EVT  Hardwood",30210
+"11",1588,7302,123362,27435,"BPS  Hardwood",42168,"EVT  Hardwood",532638
+"12",1588,7362,176,39,"BPS  Hardwood",42168,"EVT  Conifer",4272
+"13",1588,7407,4,1,"BPS  Hardwood",42168,"EVT  Conifer",185
+"14",1588,7412,2,0,"BPS  Hardwood",42168,"EVT  Grassland",49
+"15",1588,7444,10,2,"BPS  Hardwood",42168,"EVT  Riparian",506
+"16",1588,7481,30639,6814,"BPS  Hardwood",42168,"EVT  Riparian",199902
+"17",1588,7905,407,91,"BPS  Hardwood",42168,"EVT  Developed",2011
+"18",1588,7906,19,4,"BPS  Hardwood",42168,"EVT  Developed",452
+"19",1588,7907,118,26,"BPS  Hardwood",42168,"EVT  Developed",1001
+"20",1588,7908,241,54,"BPS  Hardwood",42168,"EVT  Developed",2074
+"21",1588,7909,152,34,"BPS  Hardwood",42168,"EVT  Developed",924
+"22",1588,7925,177,39,"BPS  Hardwood",42168,"EVT  Developed",1346
+"23",1588,7926,28,6,"BPS  Hardwood",42168,"EVT  Developed",561
+"24",1588,7927,22,5,"BPS  Hardwood",42168,"EVT  Developed",193
+"25",1588,7928,5,1,"BPS  Hardwood",42168,"EVT  Developed",81
+"26",1588,7929,40,9,"BPS  Hardwood",42168,"EVT  Developed",446
+"27",1588,7973,7,2,"BPS  Hardwood",42168,"EVT  Agricultural",62
+"28",1588,7974,708,157,"BPS  Hardwood",42168,"EVT  Agricultural",2441
+"29",1588,7975,72,16,"BPS  Hardwood",42168,"EVT  Agricultural",1159
+"30",1588,7976,56,12,"BPS  Hardwood",42168,"EVT  Agricultural",1268
+"31",1588,7977,1912,425,"BPS  Hardwood",42168,"EVT  Agricultural",21489
+"32",1588,7978,16,4,"BPS  Hardwood",42168,"EVT  Agricultural",335
+"33",1588,9055,313,70,"BPS  Hardwood",42168,"EVT  Riparian",8360
+"34",1588,9056,3816,849,"BPS  Hardwood",42168,"EVT  Riparian",150045
+"35",1588,9057,161,36,"BPS  Hardwood",42168,"EVT  Riparian",8920
+"36",1588,9088,38,8,"BPS  Hardwood",42168,"EVT  Conifer",1174
+"37",1588,9089,3136,697,"BPS  Hardwood",42168,"EVT  Conifer",53493
+"38",1588,9112,2524,561,"BPS  Hardwood",42168,"EVT  Conifer",80377
+"39",1588,9114,30,7,"BPS  Hardwood",42168,"EVT  Riparian",1111
+"40",1588,9117,7531,1675,"BPS  Hardwood",42168,"EVT  Riparian",41728
+"41",1588,9118,821,183,"BPS  Hardwood",42168,"EVT  Riparian",19034
+"42",1588,9120,2396,533,"BPS  Hardwood",42168,"EVT  Riparian",63637
+"43",1588,9295,12,3,"BPS  Hardwood",42168,"EVT  Conifer-Hardwood",533
+"44",1588,9314,52,12,"BPS  Hardwood",42168,"EVT  Riparian",128
+"45",1588,9315,571,127,"BPS  Hardwood",42168,"EVT  Conifer-Hardwood",1052
+"46",1588,9317,395,88,"BPS  Hardwood",42168,"EVT  Exotic Tree-Shrub",3821
+"47",1588,9318,104,23,"BPS  Hardwood",42168,"EVT  Riparian",263
+"48",1588,9617,109,24,"BPS  Hardwood",42168,"EVT  Riparian",1811
+"49",1588,9620,1261,280,"BPS  Hardwood",42168,"EVT  Riparian",18545
+"50",1588,9817,1567,348,"BPS  Hardwood",42168,"EVT  Exotic Herbaceous",13532
+"51",1590,7238,99,22,"BPS  Hardwood",57353,"EVT  Hardwood",308
+"52",1590,7239,454,101,"BPS  Hardwood",57353,"EVT  Conifer-Hardwood",2152
+"53",1590,7242,66,15,"BPS  Hardwood",57353,"EVT  Hardwood",49
+"54",1590,7243,3,1,"BPS  Hardwood",57353,"EVT  Conifer-Hardwood",47
+"55",1590,7295,108,24,"BPS  Hardwood",57353,"EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads",79
+"56",1590,7296,670,149,"BPS  Hardwood",57353,"EVT  Developed-Low Intensity",1615
+"57",1590,7297,284,63,"BPS  Hardwood",57353,"EVT  Developed-Medium Intensity",715
+"58",1590,7298,81,18,"BPS  Hardwood",57353,"EVT  Developed-High Intensity",279
+"59",1590,7299,11357,2526,"BPS  Hardwood",57353,"EVT  Developed-Roads",34026
+"60",1590,7301,114,25,"BPS  Hardwood",57353,"EVT  Hardwood",30210
+"61",1590,7302,178853,39776,"BPS  Hardwood",57353,"EVT  Hardwood",532638
+"62",1590,7362,892,198,"BPS  Hardwood",57353,"EVT  Conifer",4272
+"63",1590,7407,39,9,"BPS  Hardwood",57353,"EVT  Conifer",185
+"64",1590,7412,93,21,"BPS  Hardwood",57353,"EVT  Grassland",49
+"65",1590,7444,3,1,"BPS  Hardwood",57353,"EVT  Riparian",506
+"66",1590,7481,12834,2854,"BPS  Hardwood",57353,"EVT  Riparian",199902
+"67",1590,7905,825,183,"BPS  Hardwood",57353,"EVT  Developed",2011
+"68",1590,7906,129,29,"BPS  Hardwood",57353,"EVT  Developed",452
+"69",1590,7907,352,78,"BPS  Hardwood",57353,"EVT  Developed",1001
+"70",1590,7908,759,169,"BPS  Hardwood",57353,"EVT  Developed",2074
+"71",1590,7909,261,58,"BPS  Hardwood",57353,"EVT  Developed",924
+"72",1590,7925,879,195,"BPS  Hardwood",57353,"EVT  Developed",1346
+"73",1590,7926,233,52,"BPS  Hardwood",57353,"EVT  Developed",561
+"74",1590,7927,83,18,"BPS  Hardwood",57353,"EVT  Developed",193
+"75",1590,7928,49,11,"BPS  Hardwood",57353,"EVT  Developed",81
+"76",1590,7929,277,62,"BPS  Hardwood",57353,"EVT  Developed",446
+"77",1590,7973,9,2,"BPS  Hardwood",57353,"EVT  Agricultural",62
+"78",1590,7974,106,24,"BPS  Hardwood",57353,"EVT  Agricultural",2441
+"79",1590,7975,232,52,"BPS  Hardwood",57353,"EVT  Agricultural",1159
+"80",1590,7976,65,14,"BPS  Hardwood",57353,"EVT  Agricultural",1268
+"81",1590,7977,5484,1220,"BPS  Hardwood",57353,"EVT  Agricultural",21489
+"82",1590,7978,5,1,"BPS  Hardwood",57353,"EVT  Agricultural",335
+"83",1590,9055,862,192,"BPS  Hardwood",57353,"EVT  Riparian",8360
+"84",1590,9056,3780,841,"BPS  Hardwood",57353,"EVT  Riparian",150045
+"85",1590,9057,485,108,"BPS  Hardwood",57353,"EVT  Riparian",8920
+"86",1590,9088,249,55,"BPS  Hardwood",57353,"EVT  Conifer",1174
+"87",1590,9089,6045,1344,"BPS  Hardwood",57353,"EVT  Conifer",53493
+"88",1590,9112,14533,3232,"BPS  Hardwood",57353,"EVT  Conifer",80377
+"89",1590,9114,62,14,"BPS  Hardwood",57353,"EVT  Riparian",1111
+"90",1590,9117,2743,610,"BPS  Hardwood",57353,"EVT  Riparian",41728
+"91",1590,9118,1824,406,"BPS  Hardwood",57353,"EVT  Riparian",19034
+"92",1590,9120,3228,718,"BPS  Hardwood",57353,"EVT  Riparian",63637
+"93",1590,9295,112,25,"BPS  Hardwood",57353,"EVT  Conifer-Hardwood",533
+"94",1590,9314,61,14,"BPS  Hardwood",57353,"EVT  Riparian",128
+"95",1590,9315,812,181,"BPS  Hardwood",57353,"EVT  Conifer-Hardwood",1052
+"96",1590,9317,1385,308,"BPS  Hardwood",57353,"EVT  Exotic Tree-Shrub",3821
+"97",1590,9318,47,10,"BPS  Hardwood",57353,"EVT  Riparian",263
+"98",1590,9617,97,22,"BPS  Hardwood",57353,"EVT  Riparian",1811
+"99",1590,9620,1251,278,"BPS  Hardwood",57353,"EVT  Riparian",18545
+"100",1590,9817,4614,1026,"BPS  Hardwood",57353,"EVT  Exotic Herbaceous",13532
+"101",1591,7238,31,7,"BPS  Hardwood",73614,"EVT  Hardwood",308
+"102",1591,7239,297,66,"BPS  Hardwood",73614,"EVT  Conifer-Hardwood",2152
+"103",1591,7242,8,2,"BPS  Hardwood",73614,"EVT  Hardwood",49
+"104",1591,7243,4,1,"BPS  Hardwood",73614,"EVT  Conifer-Hardwood",47
+"105",1591,7295,16,4,"BPS  Hardwood",73614,"EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads",79
+"106",1591,7296,526,117,"BPS  Hardwood",73614,"EVT  Developed-Low Intensity",1615
+"107",1591,7297,184,41,"BPS  Hardwood",73614,"EVT  Developed-Medium Intensity",715
+"108",1591,7298,25,6,"BPS  Hardwood",73614,"EVT  Developed-High Intensity",279
+"109",1591,7299,11473,2552,"BPS  Hardwood",73614,"EVT  Developed-Roads",34026
+"110",1591,7301,532,118,"BPS  Hardwood",73614,"EVT  Hardwood",30210
+"111",1591,7302,254177,56528,"BPS  Hardwood",73614,"EVT  Hardwood",532638
+"112",1591,7362,283,63,"BPS  Hardwood",73614,"EVT  Conifer",4272
+"113",1591,7407,31,7,"BPS  Hardwood",73614,"EVT  Conifer",185
+"114",1591,7412,12,3,"BPS  Hardwood",73614,"EVT  Grassland",49
+"115",1591,7444,26,6,"BPS  Hardwood",73614,"EVT  Riparian",506
+"116",1591,7481,19597,4358,"BPS  Hardwood",73614,"EVT  Riparian",199902
+"117",1591,7905,887,197,"BPS  Hardwood",73614,"EVT  Developed",2011
+"118",1591,7906,138,31,"BPS  Hardwood",73614,"EVT  Developed",452
+"119",1591,7907,347,77,"BPS  Hardwood",73614,"EVT  Developed",1001
+"120",1591,7908,581,129,"BPS  Hardwood",73614,"EVT  Developed",2074
+"121",1591,7909,288,64,"BPS  Hardwood",73614,"EVT  Developed",924
+"122",1591,7925,439,98,"BPS  Hardwood",73614,"EVT  Developed",1346
+"123",1591,7926,127,28,"BPS  Hardwood",73614,"EVT  Developed",561
+"124",1591,7927,53,12,"BPS  Hardwood",73614,"EVT  Developed",193
+"125",1591,7928,17,4,"BPS  Hardwood",73614,"EVT  Developed",81
+"126",1591,7929,117,26,"BPS  Hardwood",73614,"EVT  Developed",446
+"127",1591,7973,8,2,"BPS  Hardwood",73614,"EVT  Agricultural",62
+"128",1591,7974,758,169,"BPS  Hardwood",73614,"EVT  Agricultural",2441
+"129",1591,7975,500,111,"BPS  Hardwood",73614,"EVT  Agricultural",1159
+"130",1591,7976,302,67,"BPS  Hardwood",73614,"EVT  Agricultural",1268
+"131",1591,7977,7037,1565,"BPS  Hardwood",73614,"EVT  Agricultural",21489
+"132",1591,7978,100,22,"BPS  Hardwood",73614,"EVT  Agricultural",335
+"133",1591,9055,305,68,"BPS  Hardwood",73614,"EVT  Riparian",8360
+"134",1591,9056,2688,598,"BPS  Hardwood",73614,"EVT  Riparian",150045
+"135",1591,9057,139,31,"BPS  Hardwood",73614,"EVT  Riparian",8920
+"136",1591,9088,155,34,"BPS  Hardwood",73614,"EVT  Conifer",1174
+"137",1591,9089,6510,1448,"BPS  Hardwood",73614,"EVT  Conifer",53493
+"138",1591,9112,8097,1801,"BPS  Hardwood",73614,"EVT  Conifer",80377
+"139",1591,9114,19,4,"BPS  Hardwood",73614,"EVT  Riparian",1111
+"140",1591,9117,4025,895,"BPS  Hardwood",73614,"EVT  Riparian",41728
+"141",1591,9118,1316,293,"BPS  Hardwood",73614,"EVT  Riparian",19034
+"142",1591,9120,2288,509,"BPS  Hardwood",73614,"EVT  Riparian",63637
+"143",1591,9295,83,18,"BPS  Hardwood",73614,"EVT  Conifer-Hardwood",533
+"144",1591,9312,4,1,"BPS  Hardwood",73614,"EVT  Conifer",101
+"145",1591,9314,19,4,"BPS  Hardwood",73614,"EVT  Riparian",128
+"146",1591,9315,411,91,"BPS  Hardwood",73614,"EVT  Conifer-Hardwood",1052
+"147",1591,9317,994,221,"BPS  Hardwood",73614,"EVT  Exotic Tree-Shrub",3821
+"148",1591,9318,29,6,"BPS  Hardwood",73614,"EVT  Riparian",263
+"149",1591,9617,69,15,"BPS  Hardwood",73614,"EVT  Riparian",1811
+"150",1591,9620,830,185,"BPS  Hardwood",73614,"EVT  Riparian",18545
+"151",1591,9817,4102,912,"BPS  Hardwood",73614,"EVT  Exotic Herbaceous",13532
+"152",1593,7239,2,0,"BPS  Conifer",131,"EVT  Conifer-Hardwood",2152
+"153",1593,7299,30,7,"BPS  Conifer",131,"EVT  Developed-Roads",34026
+"154",1593,7301,182,40,"BPS  Conifer",131,"EVT  Hardwood",30210
+"155",1593,7302,27,6,"BPS  Conifer",131,"EVT  Hardwood",532638
+"156",1593,7481,81,18,"BPS  Conifer",131,"EVT  Riparian",199902
+"157",1593,7905,1,0,"BPS  Conifer",131,"EVT  Developed",2011
+"158",1593,7907,1,0,"BPS  Conifer",131,"EVT  Developed",1001
+"159",1593,7908,2,0,"BPS  Conifer",131,"EVT  Developed",2074
+"160",1593,7909,1,0,"BPS  Conifer",131,"EVT  Developed",924
+"161",1593,7925,1,0,"BPS  Conifer",131,"EVT  Developed",1346
+"162",1593,7929,1,0,"BPS  Conifer",131,"EVT  Developed",446
+"163",1593,7974,7,2,"BPS  Conifer",131,"EVT  Agricultural",2441
+"164",1593,7975,2,0,"BPS  Conifer",131,"EVT  Agricultural",1159
+"165",1593,7977,103,23,"BPS  Conifer",131,"EVT  Agricultural",21489
+"166",1593,9055,1,0,"BPS  Conifer",131,"EVT  Riparian",8360
+"167",1593,9056,6,1,"BPS  Conifer",131,"EVT  Riparian",150045
+"168",1593,9089,81,18,"BPS  Conifer",131,"EVT  Conifer",53493
+"169",1593,9112,19,4,"BPS  Conifer",131,"EVT  Conifer",80377
+"170",1593,9114,3,1,"BPS  Conifer",131,"EVT  Riparian",1111
+"171",1593,9118,1,0,"BPS  Conifer",131,"EVT  Riparian",19034
+"172",1593,9120,5,1,"BPS  Conifer",131,"EVT  Riparian",63637
+"173",1593,9317,12,3,"BPS  Conifer",131,"EVT  Exotic Tree-Shrub",3821
+"174",1593,9620,2,0,"BPS  Conifer",131,"EVT  Riparian",18545
+"175",1593,9817,19,4,"BPS  Conifer",131,"EVT  Exotic Herbaceous",13532
+"176",1596,7238,122,27,"BPS  Conifer",212328,"EVT  Hardwood",308
+"177",1596,7239,760,169,"BPS  Conifer",212328,"EVT  Conifer-Hardwood",2152
+"178",1596,7242,22,5,"BPS  Conifer",212328,"EVT  Hardwood",49
+"179",1596,7243,29,6,"BPS  Conifer",212328,"EVT  Conifer-Hardwood",47
+"180",1596,7272,3,1,"BPS  Conifer",212328,"EVT  Riparian",8
+"181",1596,7296,1205,268,"BPS  Conifer",212328,"EVT  Developed-Low Intensity",1615
+"182",1596,7297,455,101,"BPS  Conifer",212328,"EVT  Developed-Medium Intensity",715
+"183",1596,7298,99,22,"BPS  Conifer",212328,"EVT  Developed-High Intensity",279
+"184",1596,7299,25096,5581,"BPS  Conifer",212328,"EVT  Developed-Roads",34026
+"185",1596,7301,53399,11876,"BPS  Conifer",212328,"EVT  Hardwood",30210
+"186",1596,7302,529237,117700,"BPS  Conifer",212328,"EVT  Hardwood",532638
+"187",1596,7362,920,205,"BPS  Conifer",212328,"EVT  Conifer",4272
+"188",1596,7407,58,13,"BPS  Conifer",212328,"EVT  Conifer",185
+"189",1596,7412,7,2,"BPS  Conifer",212328,"EVT  Grassland",49
+"190",1596,7444,503,112,"BPS  Conifer",212328,"EVT  Riparian",506
+"191",1596,7481,129252,28745,"BPS  Conifer",212328,"EVT  Riparian",199902
+"192",1596,7905,1673,372,"BPS  Conifer",212328,"EVT  Developed",2011
+"193",1596,7906,300,67,"BPS  Conifer",212328,"EVT  Developed",452
+"194",1596,7907,831,185,"BPS  Conifer",212328,"EVT  Developed",1001
+"195",1596,7908,1678,373,"BPS  Conifer",212328,"EVT  Developed",2074
+"196",1596,7909,1001,223,"BPS  Conifer",212328,"EVT  Developed",924
+"197",1596,7925,901,200,"BPS  Conifer",212328,"EVT  Developed",1346
+"198",1596,7926,333,74,"BPS  Conifer",212328,"EVT  Developed",561
+"199",1596,7927,121,27,"BPS  Conifer",212328,"EVT  Developed",193
+"200",1596,7928,31,7,"BPS  Conifer",212328,"EVT  Developed",81
+"201",1596,7929,249,55,"BPS  Conifer",212328,"EVT  Developed",446
+"202",1596,7973,78,17,"BPS  Conifer",212328,"EVT  Agricultural",62
+"203",1596,7974,4919,1094,"BPS  Conifer",212328,"EVT  Agricultural",2441
+"204",1596,7975,2006,446,"BPS  Conifer",212328,"EVT  Agricultural",1159
+"205",1596,7976,1221,272,"BPS  Conifer",212328,"EVT  Agricultural",1268
+"206",1596,7977,30430,6767,"BPS  Conifer",212328,"EVT  Agricultural",21489
+"207",1596,7978,777,173,"BPS  Conifer",212328,"EVT  Agricultural",335
+"208",1596,9055,1603,356,"BPS  Conifer",212328,"EVT  Riparian",8360
+"209",1596,9056,24304,5405,"BPS  Conifer",212328,"EVT  Riparian",150045
+"210",1596,9057,983,219,"BPS  Conifer",212328,"EVT  Riparian",8920
+"211",1596,9088,713,159,"BPS  Conifer",212328,"EVT  Conifer",1174
+"212",1596,9089,51665,11490,"BPS  Conifer",212328,"EVT  Conifer",53493
+"213",1596,9112,28293,6292,"BPS  Conifer",212328,"EVT  Conifer",80377
+"214",1596,9114,186,41,"BPS  Conifer",212328,"EVT  Riparian",1111
+"215",1596,9117,22631,5033,"BPS  Conifer",212328,"EVT  Riparian",41728
+"216",1596,9118,4759,1058,"BPS  Conifer",212328,"EVT  Riparian",19034
+"217",1596,9120,10524,2340,"BPS  Conifer",212328,"EVT  Riparian",63637
+"218",1596,9295,302,67,"BPS  Conifer",212328,"EVT  Conifer-Hardwood",533
+"219",1596,9312,52,12,"BPS  Conifer",212328,"EVT  Conifer",101
+"220",1596,9314,87,19,"BPS  Conifer",212328,"EVT  Riparian",128
+"221",1596,9315,992,221,"BPS  Conifer",212328,"EVT  Conifer-Hardwood",1052
+"222",1596,9317,3234,719,"BPS  Conifer",212328,"EVT  Exotic Tree-Shrub",3821
+"223",1596,9318,84,19,"BPS  Conifer",212328,"EVT  Riparian",263
+"224",1596,9617,532,118,"BPS  Conifer",212328,"EVT  Riparian",1811
+"225",1596,9620,4390,976,"BPS  Conifer",212328,"EVT  Riparian",18545
+"226",1596,9817,11685,2599,"BPS  Conifer",212328,"EVT  Exotic Herbaceous",13532
+"227",1597,7238,3,1,"BPS  Conifer",13960,"EVT  Hardwood",308
+"228",1597,7239,47,10,"BPS  Conifer",13960,"EVT  Conifer-Hardwood",2152
+"229",1597,7242,3,1,"BPS  Conifer",13960,"EVT  Hardwood",49
+"230",1597,7243,1,0,"BPS  Conifer",13960,"EVT  Conifer-Hardwood",47
+"231",1597,7295,28,6,"BPS  Conifer",13960,"EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads",79
+"232",1597,7296,68,15,"BPS  Conifer",13960,"EVT  Developed-Low Intensity",1615
+"233",1597,7297,16,4,"BPS  Conifer",13960,"EVT  Developed-Medium Intensity",715
+"234",1597,7298,1,0,"BPS  Conifer",13960,"EVT  Developed-High Intensity",279
+"235",1597,7299,2116,471,"BPS  Conifer",13960,"EVT  Developed-Roads",34026
+"236",1597,7301,57,13,"BPS  Conifer",13960,"EVT  Hardwood",30210
+"237",1597,7302,40485,9004,"BPS  Conifer",13960,"EVT  Hardwood",532638
+"238",1597,7362,70,16,"BPS  Conifer",13960,"EVT  Conifer",4272
+"239",1597,7407,6,1,"BPS  Conifer",13960,"EVT  Conifer",185
+"240",1597,7444,4,1,"BPS  Conifer",13960,"EVT  Riparian",506
+"241",1597,7481,6689,1488,"BPS  Conifer",13960,"EVT  Riparian",199902
+"242",1597,7905,127,28,"BPS  Conifer",13960,"EVT  Developed",2011
+"243",1597,7906,11,2,"BPS  Conifer",13960,"EVT  Developed",452
+"244",1597,7907,38,8,"BPS  Conifer",13960,"EVT  Developed",1001
+"245",1597,7908,98,22,"BPS  Conifer",13960,"EVT  Developed",2074
+"246",1597,7909,56,12,"BPS  Conifer",13960,"EVT  Developed",924
+"247",1597,7925,50,11,"BPS  Conifer",13960,"EVT  Developed",1346
+"248",1597,7926,18,4,"BPS  Conifer",13960,"EVT  Developed",561
+"249",1597,7927,6,1,"BPS  Conifer",13960,"EVT  Developed",193
+"250",1597,7928,1,0,"BPS  Conifer",13960,"EVT  Developed",81
+"251",1597,7929,14,3,"BPS  Conifer",13960,"EVT  Developed",446
+"252",1597,7973,2,0,"BPS  Conifer",13960,"EVT  Agricultural",62
+"253",1597,7974,228,51,"BPS  Conifer",13960,"EVT  Agricultural",2441
+"254",1597,7975,94,21,"BPS  Conifer",13960,"EVT  Agricultural",1159
+"255",1597,7976,34,8,"BPS  Conifer",13960,"EVT  Agricultural",1268
+"256",1597,7977,3263,726,"BPS  Conifer",13960,"EVT  Agricultural",21489
+"257",1597,7978,3,1,"BPS  Conifer",13960,"EVT  Agricultural",335
+"258",1597,9055,56,12,"BPS  Conifer",13960,"EVT  Riparian",8360
+"259",1597,9056,1272,283,"BPS  Conifer",13960,"EVT  Riparian",150045
+"260",1597,9057,36,8,"BPS  Conifer",13960,"EVT  Riparian",8920
+"261",1597,9088,19,4,"BPS  Conifer",13960,"EVT  Conifer",1174
+"262",1597,9089,1624,361,"BPS  Conifer",13960,"EVT  Conifer",53493
+"263",1597,9112,2949,656,"BPS  Conifer",13960,"EVT  Conifer",80377
+"264",1597,9114,2,0,"BPS  Conifer",13960,"EVT  Riparian",1111
+"265",1597,9117,1063,236,"BPS  Conifer",13960,"EVT  Riparian",41728
+"266",1597,9118,245,54,"BPS  Conifer",13960,"EVT  Riparian",19034
+"267",1597,9120,693,154,"BPS  Conifer",13960,"EVT  Riparian",63637
+"268",1597,9295,14,3,"BPS  Conifer",13960,"EVT  Conifer-Hardwood",533
+"269",1597,9312,5,1,"BPS  Conifer",13960,"EVT  Conifer",101
+"270",1597,9314,1,0,"BPS  Conifer",13960,"EVT  Riparian",128
+"271",1597,9315,86,19,"BPS  Conifer",13960,"EVT  Conifer-Hardwood",1052
+"272",1597,9317,143,32,"BPS  Conifer",13960,"EVT  Exotic Tree-Shrub",3821
+"273",1597,9318,2,0,"BPS  Conifer",13960,"EVT  Riparian",263
+"274",1597,9617,30,7,"BPS  Conifer",13960,"EVT  Riparian",1811
+"275",1597,9620,196,44,"BPS  Conifer",13960,"EVT  Riparian",18545
+"276",1597,9817,698,155,"BPS  Conifer",13960,"EVT  Exotic Herbaceous",13532
+"277",1598,7238,58,13,"BPS  Conifer",101681,"EVT  Hardwood",308
+"278",1598,7239,763,170,"BPS  Conifer",101681,"EVT  Conifer-Hardwood",2152
+"279",1598,7242,20,4,"BPS  Conifer",101681,"EVT  Hardwood",49
+"280",1598,7243,7,2,"BPS  Conifer",101681,"EVT  Conifer-Hardwood",47
+"281",1598,7272,2,0,"BPS  Conifer",101681,"EVT  Riparian",8
+"282",1598,7295,5,1,"BPS  Conifer",101681,"EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads",79
+"283",1598,7296,595,132,"BPS  Conifer",101681,"EVT  Developed-Low Intensity",1615
+"284",1598,7297,185,41,"BPS  Conifer",101681,"EVT  Developed-Medium Intensity",715
+"285",1598,7298,22,5,"BPS  Conifer",101681,"EVT  Developed-High Intensity",279
+"286",1598,7299,16091,3579,"BPS  Conifer",101681,"EVT  Developed-Roads",34026
+"287",1598,7301,25300,5627,"BPS  Conifer",101681,"EVT  Hardwood",30210
+"288",1598,7302,263390,58577,"BPS  Conifer",101681,"EVT  Hardwood",532638
+"289",1598,7362,910,202,"BPS  Conifer",101681,"EVT  Conifer",4272
+"290",1598,7407,61,14,"BPS  Conifer",101681,"EVT  Conifer",185
+"291",1598,7412,3,1,"BPS  Conifer",101681,"EVT  Grassland",49
+"292",1598,7444,228,51,"BPS  Conifer",101681,"EVT  Riparian",506
+"293",1598,7481,34838,7748,"BPS  Conifer",101681,"EVT  Riparian",199902
+"294",1598,7905,1125,250,"BPS  Conifer",101681,"EVT  Developed",2011
+"295",1598,7906,223,50,"BPS  Conifer",101681,"EVT  Developed",452
+"296",1598,7907,510,113,"BPS  Conifer",101681,"EVT  Developed",1001
+"297",1598,7908,1039,231,"BPS  Conifer",101681,"EVT  Developed",2074
+"298",1598,7909,422,94,"BPS  Conifer",101681,"EVT  Developed",924
+"299",1598,7925,634,141,"BPS  Conifer",101681,"EVT  Developed",1346
+"300",1598,7926,257,57,"BPS  Conifer",101681,"EVT  Developed",561
+"301",1598,7927,65,14,"BPS  Conifer",101681,"EVT  Developed",193
+"302",1598,7928,27,6,"BPS  Conifer",101681,"EVT  Developed",81
+"303",1598,7929,151,34,"BPS  Conifer",101681,"EVT  Developed",446
+"304",1598,7973,66,15,"BPS  Conifer",101681,"EVT  Agricultural",62
+"305",1598,7974,1339,298,"BPS  Conifer",101681,"EVT  Agricultural",2441
+"306",1598,7975,1052,234,"BPS  Conifer",101681,"EVT  Agricultural",1159
+"307",1598,7976,2031,452,"BPS  Conifer",101681,"EVT  Agricultural",1268
+"308",1598,7977,19016,4229,"BPS  Conifer",101681,"EVT  Agricultural",21489
+"309",1598,7978,32,7,"BPS  Conifer",101681,"EVT  Agricultural",335
+"310",1598,9055,270,60,"BPS  Conifer",101681,"EVT  Riparian",8360
+"311",1598,9056,3761,836,"BPS  Conifer",101681,"EVT  Riparian",150045
+"312",1598,9057,113,25,"BPS  Conifer",101681,"EVT  Riparian",8920
+"313",1598,9088,801,178,"BPS  Conifer",101681,"EVT  Conifer",1174
+"314",1598,9089,35157,7819,"BPS  Conifer",101681,"EVT  Conifer",53493
+"315",1598,9112,28187,6269,"BPS  Conifer",101681,"EVT  Conifer",80377
+"316",1598,9114,41,9,"BPS  Conifer",101681,"EVT  Riparian",1111
+"317",1598,9117,6059,1347,"BPS  Conifer",101681,"EVT  Riparian",41728
+"318",1598,9118,1371,305,"BPS  Conifer",101681,"EVT  Riparian",19034
+"319",1598,9120,2482,552,"BPS  Conifer",101681,"EVT  Riparian",63637
+"320",1598,9295,287,64,"BPS  Conifer",101681,"EVT  Conifer-Hardwood",533
+"321",1598,9312,154,34,"BPS  Conifer",101681,"EVT  Conifer",101
+"322",1598,9314,3,1,"BPS  Conifer",101681,"EVT  Riparian",128
+"323",1598,9315,191,42,"BPS  Conifer",101681,"EVT  Conifer-Hardwood",1052
+"324",1598,9317,1283,285,"BPS  Conifer",101681,"EVT  Exotic Tree-Shrub",3821
+"325",1598,9318,5,1,"BPS  Conifer",101681,"EVT  Riparian",263
+"326",1598,9617,145,32,"BPS  Conifer",101681,"EVT  Riparian",1811
+"327",1598,9620,1198,266,"BPS  Conifer",101681,"EVT  Riparian",18545
+"328",1598,9817,5236,1164,"BPS  Conifer",101681,"EVT  Exotic Herbaceous",13532
+"329",1599,7238,6,1,"BPS  Hardwood",1702,"EVT  Hardwood",308
+"330",1599,7239,6,1,"BPS  Hardwood",1702,"EVT  Conifer-Hardwood",2152
+"331",1599,7242,1,0,"BPS  Hardwood",1702,"EVT  Hardwood",49
+"332",1599,7243,1,0,"BPS  Hardwood",1702,"EVT  Conifer-Hardwood",47
+"333",1599,7296,9,2,"BPS  Hardwood",1702,"EVT  Developed-Low Intensity",1615
+"334",1599,7297,7,2,"BPS  Hardwood",1702,"EVT  Developed-Medium Intensity",715
+"335",1599,7299,248,55,"BPS  Hardwood",1702,"EVT  Developed-Roads",34026
+"336",1599,7301,2,0,"BPS  Hardwood",1702,"EVT  Hardwood",30210
+"337",1599,7302,5266,1171,"BPS  Hardwood",1702,"EVT  Hardwood",532638
+"338",1599,7362,9,2,"BPS  Hardwood",1702,"EVT  Conifer",4272
+"339",1599,7407,1,0,"BPS  Hardwood",1702,"EVT  Conifer",185
+"340",1599,7412,1,0,"BPS  Hardwood",1702,"EVT  Grassland",49
+"341",1599,7481,624,139,"BPS  Hardwood",1702,"EVT  Riparian",199902
+"342",1599,7905,24,5,"BPS  Hardwood",1702,"EVT  Developed",2011
+"343",1599,7906,2,0,"BPS  Hardwood",1702,"EVT  Developed",452
+"344",1599,7907,12,3,"BPS  Hardwood",1702,"EVT  Developed",1001
+"345",1599,7908,13,3,"BPS  Hardwood",1702,"EVT  Developed",2074
+"346",1599,7909,2,0,"BPS  Hardwood",1702,"EVT  Developed",924
+"347",1599,7925,19,4,"BPS  Hardwood",1702,"EVT  Developed",1346
+"348",1599,7926,2,0,"BPS  Hardwood",1702,"EVT  Developed",561
+"349",1599,7927,3,1,"BPS  Hardwood",1702,"EVT  Developed",193
+"350",1599,7929,3,1,"BPS  Hardwood",1702,"EVT  Developed",446
+"351",1599,7977,47,10,"BPS  Hardwood",1702,"EVT  Agricultural",21489
+"352",1599,9055,43,10,"BPS  Hardwood",1702,"EVT  Riparian",8360
+"353",1599,9056,63,14,"BPS  Hardwood",1702,"EVT  Riparian",150045
+"354",1599,9057,15,3,"BPS  Hardwood",1702,"EVT  Riparian",8920
+"355",1599,9088,2,0,"BPS  Hardwood",1702,"EVT  Conifer",1174
+"356",1599,9089,113,25,"BPS  Hardwood",1702,"EVT  Conifer",53493
+"357",1599,9112,261,58,"BPS  Hardwood",1702,"EVT  Conifer",80377
+"358",1599,9114,7,2,"BPS  Hardwood",1702,"EVT  Riparian",1111
+"359",1599,9117,277,62,"BPS  Hardwood",1702,"EVT  Riparian",41728
+"360",1599,9118,147,33,"BPS  Hardwood",1702,"EVT  Riparian",19034
+"361",1599,9120,160,36,"BPS  Hardwood",1702,"EVT  Riparian",63637
+"362",1599,9314,1,0,"BPS  Hardwood",1702,"EVT  Riparian",128
+"363",1599,9315,11,2,"BPS  Hardwood",1702,"EVT  Conifer-Hardwood",1052
+"364",1599,9317,25,6,"BPS  Hardwood",1702,"EVT  Exotic Tree-Shrub",3821
+"365",1599,9318,2,0,"BPS  Hardwood",1702,"EVT  Riparian",263
+"366",1599,9617,1,0,"BPS  Hardwood",1702,"EVT  Riparian",1811
+"367",1599,9620,67,15,"BPS  Hardwood",1702,"EVT  Riparian",18545
+"368",1599,9817,150,33,"BPS  Hardwood",1702,"EVT  Exotic Herbaceous",13532
+"369",1600,7238,3,1,"BPS  Hardwood",1238,"EVT  Hardwood",308
+"370",1600,7239,21,5,"BPS  Hardwood",1238,"EVT  Conifer-Hardwood",2152
+"371",1600,7296,8,2,"BPS  Hardwood",1238,"EVT  Developed-Low Intensity",1615
+"372",1600,7298,3,1,"BPS  Hardwood",1238,"EVT  Developed-High Intensity",279
+"373",1600,7299,248,55,"BPS  Hardwood",1238,"EVT  Developed-Roads",34026
+"374",1600,7301,91,20,"BPS  Hardwood",1238,"EVT  Hardwood",30210
+"375",1600,7302,3813,848,"BPS  Hardwood",1238,"EVT  Hardwood",532638
+"376",1600,7362,56,12,"BPS  Hardwood",1238,"EVT  Conifer",4272
+"377",1600,7407,2,0,"BPS  Hardwood",1238,"EVT  Conifer",185
+"378",1600,7412,3,1,"BPS  Hardwood",1238,"EVT  Grassland",49
+"379",1600,7481,176,39,"BPS  Hardwood",1238,"EVT  Riparian",199902
+"380",1600,7905,45,10,"BPS  Hardwood",1238,"EVT  Developed",2011
+"381",1600,7906,2,0,"BPS  Hardwood",1238,"EVT  Developed",452
+"382",1600,7907,8,2,"BPS  Hardwood",1238,"EVT  Developed",1001
+"383",1600,7908,18,4,"BPS  Hardwood",1238,"EVT  Developed",2074
+"384",1600,7909,4,1,"BPS  Hardwood",1238,"EVT  Developed",924
+"385",1600,7925,20,4,"BPS  Hardwood",1238,"EVT  Developed",1346
+"386",1600,7926,2,0,"BPS  Hardwood",1238,"EVT  Developed",561
+"387",1600,7927,1,0,"BPS  Hardwood",1238,"EVT  Developed",193
+"388",1600,7928,1,0,"BPS  Hardwood",1238,"EVT  Developed",81
+"389",1600,7929,2,0,"BPS  Hardwood",1238,"EVT  Developed",446
+"390",1600,7974,10,2,"BPS  Hardwood",1238,"EVT  Agricultural",2441
+"391",1600,7975,3,1,"BPS  Hardwood",1238,"EVT  Agricultural",1159
+"392",1600,7976,3,1,"BPS  Hardwood",1238,"EVT  Agricultural",1268
+"393",1600,7977,48,11,"BPS  Hardwood",1238,"EVT  Agricultural",21489
+"394",1600,9055,6,1,"BPS  Hardwood",1238,"EVT  Riparian",8360
+"395",1600,9056,31,7,"BPS  Hardwood",1238,"EVT  Riparian",150045
+"396",1600,9057,4,1,"BPS  Hardwood",1238,"EVT  Riparian",8920
+"397",1600,9088,4,1,"BPS  Hardwood",1238,"EVT  Conifer",1174
+"398",1600,9089,151,34,"BPS  Hardwood",1238,"EVT  Conifer",53493
+"399",1600,9112,599,133,"BPS  Hardwood",1238,"EVT  Conifer",80377
+"400",1600,9114,1,0,"BPS  Hardwood",1238,"EVT  Riparian",1111
+"401",1600,9117,32,7,"BPS  Hardwood",1238,"EVT  Riparian",41728
+"402",1600,9118,23,5,"BPS  Hardwood",1238,"EVT  Riparian",19034
+"403",1600,9120,21,5,"BPS  Hardwood",1238,"EVT  Riparian",63637
+"404",1600,9295,5,1,"BPS  Hardwood",1238,"EVT  Conifer-Hardwood",533
+"405",1600,9315,1,0,"BPS  Hardwood",1238,"EVT  Conifer-Hardwood",1052
+"406",1600,9317,10,2,"BPS  Hardwood",1238,"EVT  Exotic Tree-Shrub",3821
+"407",1600,9318,5,1,"BPS  Hardwood",1238,"EVT  Riparian",263
+"408",1600,9617,1,0,"BPS  Hardwood",1238,"EVT  Riparian",1811
+"409",1600,9620,2,0,"BPS  Hardwood",1238,"EVT  Riparian",18545
+"410",1600,9817,80,18,"BPS  Hardwood",1238,"EVT  Exotic Herbaceous",13532
+"411",1601,7239,8,2,"BPS  Hardwood-Conifer",775,"EVT  Conifer-Hardwood",2152
+"412",1601,7296,23,5,"BPS  Hardwood-Conifer",775,"EVT  Developed-Low Intensity",1615
+"413",1601,7297,14,3,"BPS  Hardwood-Conifer",775,"EVT  Developed-Medium Intensity",715
+"414",1601,7299,202,45,"BPS  Hardwood-Conifer",775,"EVT  Developed-Roads",34026
+"415",1601,7301,2,0,"BPS  Hardwood-Conifer",775,"EVT  Hardwood",30210
+"416",1601,7302,2039,453,"BPS  Hardwood-Conifer",775,"EVT  Hardwood",532638
+"417",1601,7362,37,8,"BPS  Hardwood-Conifer",775,"EVT  Conifer",4272
+"418",1601,7444,1,0,"BPS  Hardwood-Conifer",775,"EVT  Riparian",506
+"419",1601,7481,307,68,"BPS  Hardwood-Conifer",775,"EVT  Riparian",199902
+"420",1601,7905,6,1,"BPS  Hardwood-Conifer",775,"EVT  Developed",2011
+"421",1601,7907,7,2,"BPS  Hardwood-Conifer",775,"EVT  Developed",1001
+"422",1601,7908,30,7,"BPS  Hardwood-Conifer",775,"EVT  Developed",2074
+"423",1601,7909,5,1,"BPS  Hardwood-Conifer",775,"EVT  Developed",924
+"424",1601,7925,6,1,"BPS  Hardwood-Conifer",775,"EVT  Developed",1346
+"425",1601,7926,12,3,"BPS  Hardwood-Conifer",775,"EVT  Developed",561
+"426",1601,7927,7,2,"BPS  Hardwood-Conifer",775,"EVT  Developed",193
+"427",1601,7928,2,0,"BPS  Hardwood-Conifer",775,"EVT  Developed",81
+"428",1601,7929,7,2,"BPS  Hardwood-Conifer",775,"EVT  Developed",446
+"429",1601,7974,2,0,"BPS  Hardwood-Conifer",775,"EVT  Agricultural",2441
+"430",1601,7976,2,0,"BPS  Hardwood-Conifer",775,"EVT  Agricultural",1268
+"431",1601,7977,1,0,"BPS  Hardwood-Conifer",775,"EVT  Agricultural",21489
+"432",1601,9055,5,1,"BPS  Hardwood-Conifer",775,"EVT  Riparian",8360
+"433",1601,9056,68,15,"BPS  Hardwood-Conifer",775,"EVT  Riparian",150045
+"434",1601,9057,7,2,"BPS  Hardwood-Conifer",775,"EVT  Riparian",8920
+"435",1601,9088,4,1,"BPS  Hardwood-Conifer",775,"EVT  Conifer",1174
+"436",1601,9089,86,19,"BPS  Hardwood-Conifer",775,"EVT  Conifer",53493
+"437",1601,9112,361,80,"BPS  Hardwood-Conifer",775,"EVT  Conifer",80377
+"438",1601,9117,49,11,"BPS  Hardwood-Conifer",775,"EVT  Riparian",41728
+"439",1601,9118,13,3,"BPS  Hardwood-Conifer",775,"EVT  Riparian",19034
+"440",1601,9120,109,24,"BPS  Hardwood-Conifer",775,"EVT  Riparian",63637
+"441",1601,9314,1,0,"BPS  Hardwood-Conifer",775,"EVT  Riparian",128
+"442",1601,9317,8,2,"BPS  Hardwood-Conifer",775,"EVT  Exotic Tree-Shrub",3821
+"443",1601,9318,6,1,"BPS  Hardwood-Conifer",775,"EVT  Riparian",263
+"444",1601,9617,1,0,"BPS  Hardwood-Conifer",775,"EVT  Riparian",1811
+"445",1601,9620,22,5,"BPS  Hardwood-Conifer",775,"EVT  Riparian",18545
+"446",1601,9817,26,6,"BPS  Hardwood-Conifer",775,"EVT  Exotic Herbaceous",13532
+"447",1602,7238,461,103,"BPS  Conifer",132403,"EVT  Hardwood",308
+"448",1602,7239,3343,743,"BPS  Conifer",132403,"EVT  Conifer-Hardwood",2152
+"449",1602,7242,31,7,"BPS  Conifer",132403,"EVT  Hardwood",49
+"450",1602,7243,98,22,"BPS  Conifer",132403,"EVT  Conifer-Hardwood",47
+"451",1602,7295,38,8,"BPS  Conifer",132403,"EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads",79
+"452",1602,7296,828,184,"BPS  Conifer",132403,"EVT  Developed-Low Intensity",1615
+"453",1602,7297,334,74,"BPS  Conifer",132403,"EVT  Developed-Medium Intensity",715
+"454",1602,7298,55,12,"BPS  Conifer",132403,"EVT  Developed-High Intensity",279
+"455",1602,7299,25689,5713,"BPS  Conifer",132403,"EVT  Developed-Roads",34026
+"456",1602,7301,2030,451,"BPS  Conifer",132403,"EVT  Hardwood",30210
+"457",1602,7302,252306,56112,"BPS  Conifer",132403,"EVT  Hardwood",532638
+"458",1602,7362,6221,1384,"BPS  Conifer",132403,"EVT  Conifer",4272
+"459",1602,7407,292,65,"BPS  Conifer",132403,"EVT  Conifer",185
+"460",1602,7412,10,2,"BPS  Conifer",132403,"EVT  Grassland",49
+"461",1602,7444,5,1,"BPS  Conifer",132403,"EVT  Riparian",506
+"462",1602,7481,54489,12118,"BPS  Conifer",132403,"EVT  Riparian",199902
+"463",1602,7905,816,181,"BPS  Conifer",132403,"EVT  Developed",2011
+"464",1602,7906,312,69,"BPS  Conifer",132403,"EVT  Developed",452
+"465",1602,7907,465,103,"BPS  Conifer",132403,"EVT  Developed",1001
+"466",1602,7908,1111,247,"BPS  Conifer",132403,"EVT  Developed",2074
+"467",1602,7909,297,66,"BPS  Conifer",132403,"EVT  Developed",924
+"468",1602,7925,653,145,"BPS  Conifer",132403,"EVT  Developed",1346
+"469",1602,7926,371,83,"BPS  Conifer",132403,"EVT  Developed",561
+"470",1602,7927,94,21,"BPS  Conifer",132403,"EVT  Developed",193
+"471",1602,7928,54,12,"BPS  Conifer",132403,"EVT  Developed",81
+"472",1602,7929,287,64,"BPS  Conifer",132403,"EVT  Developed",446
+"473",1602,7973,35,8,"BPS  Conifer",132403,"EVT  Agricultural",62
+"474",1602,7974,405,90,"BPS  Conifer",132403,"EVT  Agricultural",2441
+"475",1602,7975,306,68,"BPS  Conifer",132403,"EVT  Agricultural",1159
+"476",1602,7976,266,59,"BPS  Conifer",132403,"EVT  Agricultural",1268
+"477",1602,7977,5536,1231,"BPS  Conifer",132403,"EVT  Agricultural",21489
+"478",1602,7978,174,39,"BPS  Conifer",132403,"EVT  Agricultural",335
+"479",1602,9055,992,221,"BPS  Conifer",132403,"EVT  Riparian",8360
+"480",1602,9056,16389,3645,"BPS  Conifer",132403,"EVT  Riparian",150045
+"481",1602,9057,702,156,"BPS  Conifer",132403,"EVT  Riparian",8920
+"482",1602,9088,1071,238,"BPS  Conifer",132403,"EVT  Conifer",1174
+"483",1602,9089,36191,8049,"BPS  Conifer",132403,"EVT  Conifer",53493
+"484",1602,9112,145523,32364,"BPS  Conifer",132403,"EVT  Conifer",80377
+"485",1602,9114,115,26,"BPS  Conifer",132403,"EVT  Riparian",1111
+"486",1602,9117,14043,3123,"BPS  Conifer",132403,"EVT  Riparian",41728
+"487",1602,9118,2683,597,"BPS  Conifer",132403,"EVT  Riparian",19034
+"488",1602,9120,5857,1303,"BPS  Conifer",132403,"EVT  Riparian",63637
+"489",1602,9295,589,131,"BPS  Conifer",132403,"EVT  Conifer-Hardwood",533
+"490",1602,9312,50,11,"BPS  Conifer",132403,"EVT  Conifer",101
+"491",1602,9314,7,2,"BPS  Conifer",132403,"EVT  Riparian",128
+"492",1602,9315,463,103,"BPS  Conifer",132403,"EVT  Conifer-Hardwood",1052
+"493",1602,9317,2690,598,"BPS  Conifer",132403,"EVT  Exotic Tree-Shrub",3821
+"494",1602,9318,6,1,"BPS  Conifer",132403,"EVT  Riparian",263
+"495",1602,9617,342,76,"BPS  Conifer",132403,"EVT  Riparian",1811
+"496",1602,9620,2598,578,"BPS  Conifer",132403,"EVT  Riparian",18545
+"497",1602,9817,7630,1697,"BPS  Conifer",132403,"EVT  Exotic Herbaceous",13532
+"498",1603,7299,5,1,"BPS  Grassland",84,"EVT  Developed-Roads",34026
+"499",1603,7302,8,2,"BPS  Grassland",84,"EVT  Hardwood",532638
+"500",1603,7362,3,1,"BPS  Grassland",84,"EVT  Conifer",4272
+"501",1603,7481,51,11,"BPS  Grassland",84,"EVT  Riparian",199902
+"502",1603,9055,1,0,"BPS  Grassland",84,"EVT  Riparian",8360
+"503",1603,9056,23,5,"BPS  Grassland",84,"EVT  Riparian",150045
+"504",1603,9089,96,21,"BPS  Grassland",84,"EVT  Conifer",53493
+"505",1603,9112,183,41,"BPS  Grassland",84,"EVT  Conifer",80377
+"506",1603,9117,3,1,"BPS  Grassland",84,"EVT  Riparian",41728
+"507",1603,9118,2,0,"BPS  Grassland",84,"EVT  Riparian",19034
+"508",1603,9120,1,0,"BPS  Grassland",84,"EVT  Riparian",63637
+"509",1603,9295,1,0,"BPS  Grassland",84,"EVT  Conifer-Hardwood",533
+"510",1603,9617,1,0,"BPS  Grassland",84,"EVT  Riparian",1811
+"511",1605,7238,1,0,"BPS  Hardwood",8090,"EVT  Hardwood",308
+"512",1605,7239,4,1,"BPS  Hardwood",8090,"EVT  Conifer-Hardwood",2152
+"513",1605,7272,5,1,"BPS  Hardwood",8090,"EVT  Riparian",8
+"514",1605,7296,11,2,"BPS  Hardwood",8090,"EVT  Developed-Low Intensity",1615
+"515",1605,7297,4,1,"BPS  Hardwood",8090,"EVT  Developed-Medium Intensity",715
+"516",1605,7299,467,104,"BPS  Hardwood",8090,"EVT  Developed-Roads",34026
+"517",1605,7301,5298,1178,"BPS  Hardwood",8090,"EVT  Hardwood",30210
+"518",1605,7302,2204,490,"BPS  Hardwood",8090,"EVT  Hardwood",532638
+"519",1605,7362,5,1,"BPS  Hardwood",8090,"EVT  Conifer",4272
+"520",1605,7444,112,25,"BPS  Hardwood",8090,"EVT  Riparian",506
+"521",1605,7481,12235,2721,"BPS  Hardwood",8090,"EVT  Riparian",199902
+"522",1605,7905,9,2,"BPS  Hardwood",8090,"EVT  Developed",2011
+"523",1605,7906,6,1,"BPS  Hardwood",8090,"EVT  Developed",452
+"524",1605,7907,8,2,"BPS  Hardwood",8090,"EVT  Developed",1001
+"525",1605,7908,34,8,"BPS  Hardwood",8090,"EVT  Developed",2074
+"526",1605,7909,22,5,"BPS  Hardwood",8090,"EVT  Developed",924
+"527",1605,7925,10,2,"BPS  Hardwood",8090,"EVT  Developed",1346
+"528",1605,7926,2,0,"BPS  Hardwood",8090,"EVT  Developed",561
+"529",1605,7927,7,2,"BPS  Hardwood",8090,"EVT  Developed",193
+"530",1605,7928,2,0,"BPS  Hardwood",8090,"EVT  Developed",81
+"531",1605,7929,4,1,"BPS  Hardwood",8090,"EVT  Developed",446
+"532",1605,7974,10,2,"BPS  Hardwood",8090,"EVT  Agricultural",2441
+"533",1605,7975,2,0,"BPS  Hardwood",8090,"EVT  Agricultural",1159
+"534",1605,7976,4,1,"BPS  Hardwood",8090,"EVT  Agricultural",1268
+"535",1605,7977,402,89,"BPS  Hardwood",8090,"EVT  Agricultural",21489
+"536",1605,9055,55,12,"BPS  Hardwood",8090,"EVT  Riparian",8360
+"537",1605,9056,5516,1227,"BPS  Hardwood",8090,"EVT  Riparian",150045
+"538",1605,9057,170,38,"BPS  Hardwood",8090,"EVT  Riparian",8920
+"539",1605,9088,26,6,"BPS  Hardwood",8090,"EVT  Conifer",1174
+"540",1605,9089,1533,341,"BPS  Hardwood",8090,"EVT  Conifer",53493
+"541",1605,9112,85,19,"BPS  Hardwood",8090,"EVT  Conifer",80377
+"542",1605,9114,41,9,"BPS  Hardwood",8090,"EVT  Riparian",1111
+"543",1605,9117,4356,969,"BPS  Hardwood",8090,"EVT  Riparian",41728
+"544",1605,9118,592,132,"BPS  Hardwood",8090,"EVT  Riparian",19034
+"545",1605,9120,2106,468,"BPS  Hardwood",8090,"EVT  Riparian",63637
+"546",1605,9295,1,0,"BPS  Hardwood",8090,"EVT  Conifer-Hardwood",533
+"547",1605,9312,3,1,"BPS  Hardwood",8090,"EVT  Conifer",101
+"548",1605,9314,4,1,"BPS  Hardwood",8090,"EVT  Riparian",128
+"549",1605,9315,10,2,"BPS  Hardwood",8090,"EVT  Conifer-Hardwood",1052
+"550",1605,9317,91,20,"BPS  Hardwood",8090,"EVT  Exotic Tree-Shrub",3821
+"551",1605,9318,7,2,"BPS  Hardwood",8090,"EVT  Riparian",263
+"552",1605,9617,91,20,"BPS  Hardwood",8090,"EVT  Riparian",1811
+"553",1605,9620,502,112,"BPS  Hardwood",8090,"EVT  Riparian",18545
+"554",1605,9817,319,71,"BPS  Hardwood",8090,"EVT  Exotic Herbaceous",13532
+"555",1606,7299,8,2,"BPS  Riparian",52,"EVT  Developed-Roads",34026
+"556",1606,7301,11,2,"BPS  Riparian",52,"EVT  Hardwood",30210
+"557",1606,7302,48,11,"BPS  Riparian",52,"EVT  Hardwood",532638
+"558",1606,7481,82,18,"BPS  Riparian",52,"EVT  Riparian",199902
+"559",1606,7977,3,1,"BPS  Riparian",52,"EVT  Agricultural",21489
+"560",1606,9055,6,1,"BPS  Riparian",52,"EVT  Riparian",8360
+"561",1606,9056,18,4,"BPS  Riparian",52,"EVT  Riparian",150045
+"562",1606,9057,5,1,"BPS  Riparian",52,"EVT  Riparian",8920
+"563",1606,9089,6,1,"BPS  Riparian",52,"EVT  Conifer",53493
+"564",1606,9112,3,1,"BPS  Riparian",52,"EVT  Conifer",80377
+"565",1606,9117,9,2,"BPS  Riparian",52,"EVT  Riparian",41728
+"566",1606,9118,4,1,"BPS  Riparian",52,"EVT  Riparian",19034
+"567",1606,9120,17,4,"BPS  Riparian",52,"EVT  Riparian",63637
+"568",1606,9620,12,3,"BPS  Riparian",52,"EVT  Riparian",18545
+"569",1606,9817,4,1,"BPS  Riparian",52,"EVT  Exotic Herbaceous",13532
+"570",1607,7238,9,2,"BPS  Riparian",96359,"EVT  Hardwood",308
+"571",1607,7239,27,6,"BPS  Riparian",96359,"EVT  Conifer-Hardwood",2152
+"572",1607,7242,2,0,"BPS  Riparian",96359,"EVT  Hardwood",49
+"573",1607,7243,4,1,"BPS  Riparian",96359,"EVT  Conifer-Hardwood",47
+"574",1607,7272,14,3,"BPS  Riparian",96359,"EVT  Riparian",8
+"575",1607,7296,158,35,"BPS  Riparian",96359,"EVT  Developed-Low Intensity",1615
+"576",1607,7297,38,8,"BPS  Riparian",96359,"EVT  Developed-Medium Intensity",715
+"577",1607,7298,2,0,"BPS  Riparian",96359,"EVT  Developed-High Intensity",279
+"578",1607,7299,3685,820,"BPS  Riparian",96359,"EVT  Developed-Roads",34026
+"579",1607,7301,2503,557,"BPS  Riparian",96359,"EVT  Hardwood",30210
+"580",1607,7302,31219,6943,"BPS  Riparian",96359,"EVT  Hardwood",532638
+"581",1607,7362,130,29,"BPS  Riparian",96359,"EVT  Conifer",4272
+"582",1607,7407,19,4,"BPS  Riparian",96359,"EVT  Conifer",185
+"583",1607,7412,7,2,"BPS  Riparian",96359,"EVT  Grassland",49
+"584",1607,7444,697,155,"BPS  Riparian",96359,"EVT  Riparian",506
+"585",1607,7481,111197,24730,"BPS  Riparian",96359,"EVT  Riparian",199902
+"586",1607,7905,183,41,"BPS  Riparian",96359,"EVT  Developed",2011
+"587",1607,7906,49,11,"BPS  Riparian",96359,"EVT  Developed",452
+"588",1607,7907,120,27,"BPS  Riparian",96359,"EVT  Developed",1001
+"589",1607,7908,327,73,"BPS  Riparian",96359,"EVT  Developed",2074
+"590",1607,7909,133,30,"BPS  Riparian",96359,"EVT  Developed",924
+"591",1607,7925,96,21,"BPS  Riparian",96359,"EVT  Developed",1346
+"592",1607,7926,96,21,"BPS  Riparian",96359,"EVT  Developed",561
+"593",1607,7927,73,16,"BPS  Riparian",96359,"EVT  Developed",193
+"594",1607,7928,16,4,"BPS  Riparian",96359,"EVT  Developed",81
+"595",1607,7929,96,21,"BPS  Riparian",96359,"EVT  Developed",446
+"596",1607,7973,2,0,"BPS  Riparian",96359,"EVT  Agricultural",62
+"597",1607,7974,186,41,"BPS  Riparian",96359,"EVT  Agricultural",2441
+"598",1607,7975,32,7,"BPS  Riparian",96359,"EVT  Agricultural",1159
+"599",1607,7976,214,48,"BPS  Riparian",96359,"EVT  Agricultural",1268
+"600",1607,7977,2194,488,"BPS  Riparian",96359,"EVT  Agricultural",21489
+"601",1607,7978,3,1,"BPS  Riparian",96359,"EVT  Agricultural",335
+"602",1607,9055,2476,551,"BPS  Riparian",96359,"EVT  Riparian",8360
+"603",1607,9056,50190,11162,"BPS  Riparian",96359,"EVT  Riparian",150045
+"604",1607,9057,9240,2055,"BPS  Riparian",96359,"EVT  Riparian",8920
+"605",1607,9088,94,21,"BPS  Riparian",96359,"EVT  Conifer",1174
+"606",1607,9089,4837,1076,"BPS  Riparian",96359,"EVT  Conifer",53493
+"607",1607,9112,2298,511,"BPS  Riparian",96359,"EVT  Conifer",80377
+"608",1607,9114,1401,312,"BPS  Riparian",96359,"EVT  Riparian",1111
+"609",1607,9117,42142,9372,"BPS  Riparian",96359,"EVT  Riparian",41728
+"610",1607,9118,27904,6206,"BPS  Riparian",96359,"EVT  Riparian",19034
+"611",1607,9120,107956,24009,"BPS  Riparian",96359,"EVT  Riparian",63637
+"612",1607,9295,15,3,"BPS  Riparian",96359,"EVT  Conifer-Hardwood",533
+"613",1607,9312,1,0,"BPS  Riparian",96359,"EVT  Conifer",101
+"614",1607,9314,53,12,"BPS  Riparian",96359,"EVT  Riparian",128
+"615",1607,9315,17,4,"BPS  Riparian",96359,"EVT  Conifer-Hardwood",1052
+"616",1607,9317,725,161,"BPS  Riparian",96359,"EVT  Exotic Tree-Shrub",3821
+"617",1607,9318,194,43,"BPS  Riparian",96359,"EVT  Riparian",263
+"618",1607,9617,2474,550,"BPS  Riparian",96359,"EVT  Riparian",1811
+"619",1607,9620,24398,5426,"BPS  Riparian",96359,"EVT  Riparian",18545
+"620",1607,9817,3333,741,"BPS  Riparian",96359,"EVT  Exotic Herbaceous",13532
+"621",1608,7238,14,3,"BPS  Riparian",228324,"EVT  Hardwood",308
+"622",1608,7239,162,36,"BPS  Riparian",228324,"EVT  Conifer-Hardwood",2152
+"623",1608,7242,1,0,"BPS  Riparian",228324,"EVT  Hardwood",49
+"624",1608,7243,9,2,"BPS  Riparian",228324,"EVT  Conifer-Hardwood",47
+"625",1608,7272,7,2,"BPS  Riparian",228324,"EVT  Riparian",8
+"626",1608,7296,235,52,"BPS  Riparian",228324,"EVT  Developed-Low Intensity",1615
+"627",1608,7297,66,15,"BPS  Riparian",228324,"EVT  Developed-Medium Intensity",715
+"628",1608,7298,8,2,"BPS  Riparian",228324,"EVT  Developed-High Intensity",279
+"629",1608,7299,7312,1626,"BPS  Riparian",228324,"EVT  Developed-Roads",34026
+"630",1608,7301,4561,1014,"BPS  Riparian",228324,"EVT  Hardwood",30210
+"631",1608,7302,49812,11078,"BPS  Riparian",228324,"EVT  Hardwood",532638
+"632",1608,7362,438,97,"BPS  Riparian",228324,"EVT  Conifer",4272
+"633",1608,7407,40,9,"BPS  Riparian",228324,"EVT  Conifer",185
+"634",1608,7412,3,1,"BPS  Riparian",228324,"EVT  Grassland",49
+"635",1608,7444,271,60,"BPS  Riparian",228324,"EVT  Riparian",506
+"636",1608,7481,246782,54883,"BPS  Riparian",228324,"EVT  Riparian",199902
+"637",1608,7905,231,51,"BPS  Riparian",228324,"EVT  Developed",2011
+"638",1608,7906,109,24,"BPS  Riparian",228324,"EVT  Developed",452
+"639",1608,7907,278,62,"BPS  Riparian",228324,"EVT  Developed",1001
+"640",1608,7908,444,99,"BPS  Riparian",228324,"EVT  Developed",2074
+"641",1608,7909,175,39,"BPS  Riparian",228324,"EVT  Developed",924
+"642",1608,7925,175,39,"BPS  Riparian",228324,"EVT  Developed",1346
+"643",1608,7926,153,34,"BPS  Riparian",228324,"EVT  Developed",561
+"644",1608,7927,62,14,"BPS  Riparian",228324,"EVT  Developed",193
+"645",1608,7928,14,3,"BPS  Riparian",228324,"EVT  Developed",81
+"646",1608,7929,76,17,"BPS  Riparian",228324,"EVT  Developed",446
+"647",1608,7973,3,1,"BPS  Riparian",228324,"EVT  Agricultural",62
+"648",1608,7974,415,92,"BPS  Riparian",228324,"EVT  Agricultural",2441
+"649",1608,7975,68,15,"BPS  Riparian",228324,"EVT  Agricultural",1159
+"650",1608,7976,438,97,"BPS  Riparian",228324,"EVT  Agricultural",1268
+"651",1608,7977,2058,458,"BPS  Riparian",228324,"EVT  Agricultural",21489
+"652",1608,7978,5,1,"BPS  Riparian",228324,"EVT  Agricultural",335
+"653",1608,9055,25433,5656,"BPS  Riparian",228324,"EVT  Riparian",8360
+"654",1608,9056,499349,111053,"BPS  Riparian",228324,"EVT  Riparian",150045
+"655",1608,9057,20707,4605,"BPS  Riparian",228324,"EVT  Riparian",8920
+"656",1608,9088,233,52,"BPS  Riparian",228324,"EVT  Conifer",1174
+"657",1608,9089,20943,4658,"BPS  Riparian",228324,"EVT  Conifer",53493
+"658",1608,9112,10333,2298,"BPS  Riparian",228324,"EVT  Conifer",80377
+"659",1608,9114,2133,474,"BPS  Riparian",228324,"EVT  Riparian",1111
+"660",1608,9117,28742,6392,"BPS  Riparian",228324,"EVT  Riparian",41728
+"661",1608,9118,15391,3423,"BPS  Riparian",228324,"EVT  Riparian",19034
+"662",1608,9120,57961,12890,"BPS  Riparian",228324,"EVT  Riparian",63637
+"663",1608,9295,103,23,"BPS  Riparian",228324,"EVT  Conifer-Hardwood",533
+"664",1608,9312,6,1,"BPS  Riparian",228324,"EVT  Conifer",101
+"665",1608,9314,56,12,"BPS  Riparian",228324,"EVT  Riparian",128
+"666",1608,9315,87,19,"BPS  Riparian",228324,"EVT  Conifer-Hardwood",1052
+"667",1608,9317,1176,262,"BPS  Riparian",228324,"EVT  Exotic Tree-Shrub",3821
+"668",1608,9318,104,23,"BPS  Riparian",228324,"EVT  Riparian",263
+"669",1608,9617,2161,481,"BPS  Riparian",228324,"EVT  Riparian",1811
+"670",1608,9620,24287,5401,"BPS  Riparian",228324,"EVT  Riparian",18545
+"671",1608,9817,3032,674,"BPS  Riparian",228324,"EVT  Exotic Herbaceous",13532
+"672",1609,9117,1,0,"BPS  Riparian",0,"EVT  Riparian",41728
+"673",1610,7238,29,6,"BPS  Riparian",137956,"EVT  Hardwood",308
+"674",1610,7239,318,71,"BPS  Riparian",137956,"EVT  Conifer-Hardwood",2152
+"675",1610,7242,4,1,"BPS  Riparian",137956,"EVT  Hardwood",49
+"676",1610,7243,3,1,"BPS  Riparian",137956,"EVT  Conifer-Hardwood",47
+"677",1610,7272,5,1,"BPS  Riparian",137956,"EVT  Riparian",8
+"678",1610,7296,248,55,"BPS  Riparian",137956,"EVT  Developed-Low Intensity",1615
+"679",1610,7297,86,19,"BPS  Riparian",137956,"EVT  Developed-Medium Intensity",715
+"680",1610,7298,13,3,"BPS  Riparian",137956,"EVT  Developed-High Intensity",279
+"681",1610,7299,6637,1476,"BPS  Riparian",137956,"EVT  Developed-Roads",34026
+"682",1610,7301,37455,8330,"BPS  Riparian",137956,"EVT  Hardwood",30210
+"683",1610,7302,166670,37067,"BPS  Riparian",137956,"EVT  Hardwood",532638
+"684",1610,7362,525,117,"BPS  Riparian",137956,"EVT  Conifer",4272
+"685",1610,7407,38,8,"BPS  Riparian",137956,"EVT  Conifer",185
+"686",1610,7412,18,4,"BPS  Riparian",137956,"EVT  Grassland",49
+"687",1610,7444,357,79,"BPS  Riparian",137956,"EVT  Riparian",506
+"688",1610,7481,190402,42344,"BPS  Riparian",137956,"EVT  Riparian",199902
+"689",1610,7905,289,64,"BPS  Riparian",137956,"EVT  Developed",2011
+"690",1610,7906,94,21,"BPS  Riparian",137956,"EVT  Developed",452
+"691",1610,7907,213,47,"BPS  Riparian",137956,"EVT  Developed",1001
+"692",1610,7908,427,95,"BPS  Riparian",137956,"EVT  Developed",2074
+"693",1610,7909,188,42,"BPS  Riparian",137956,"EVT  Developed",924
+"694",1610,7925,208,46,"BPS  Riparian",137956,"EVT  Developed",1346
+"695",1610,7926,165,37,"BPS  Riparian",137956,"EVT  Developed",561
+"696",1610,7927,89,20,"BPS  Riparian",137956,"EVT  Developed",193
+"697",1610,7928,24,5,"BPS  Riparian",137956,"EVT  Developed",81
+"698",1610,7929,108,24,"BPS  Riparian",137956,"EVT  Developed",446
+"699",1610,7973,10,2,"BPS  Riparian",137956,"EVT  Agricultural",62
+"700",1610,7974,658,146,"BPS  Riparian",137956,"EVT  Agricultural",2441
+"701",1610,7975,159,35,"BPS  Riparian",137956,"EVT  Agricultural",1159
+"702",1610,7976,498,111,"BPS  Riparian",137956,"EVT  Agricultural",1268
+"703",1610,7977,4923,1095,"BPS  Riparian",137956,"EVT  Agricultural",21489
+"704",1610,7978,15,3,"BPS  Riparian",137956,"EVT  Agricultural",335
+"705",1610,9055,3333,741,"BPS  Riparian",137956,"EVT  Riparian",8360
+"706",1610,9056,48582,10804,"BPS  Riparian",137956,"EVT  Riparian",150045
+"707",1610,9057,3935,875,"BPS  Riparian",137956,"EVT  Riparian",8920
+"708",1610,9088,269,60,"BPS  Riparian",137956,"EVT  Conifer",1174
+"709",1610,9089,28889,6425,"BPS  Riparian",137956,"EVT  Conifer",53493
+"710",1610,9112,11287,2510,"BPS  Riparian",137956,"EVT  Conifer",80377
+"711",1610,9114,520,116,"BPS  Riparian",137956,"EVT  Riparian",1111
+"712",1610,9117,38869,8644,"BPS  Riparian",137956,"EVT  Riparian",41728
+"713",1610,9118,9350,2079,"BPS  Riparian",137956,"EVT  Riparian",19034
+"714",1610,9120,39435,8770,"BPS  Riparian",137956,"EVT  Riparian",63637
+"715",1610,9295,137,30,"BPS  Riparian",137956,"EVT  Conifer-Hardwood",533
+"716",1610,9312,19,4,"BPS  Riparian",137956,"EVT  Conifer",101
+"717",1610,9314,176,39,"BPS  Riparian",137956,"EVT  Riparian",128
+"718",1610,9315,158,35,"BPS  Riparian",137956,"EVT  Conifer-Hardwood",1052
+"719",1610,9317,1907,424,"BPS  Riparian",137956,"EVT  Exotic Tree-Shrub",3821
+"720",1610,9318,395,88,"BPS  Riparian",137956,"EVT  Riparian",263
+"721",1610,9617,1481,329,"BPS  Riparian",137956,"EVT  Riparian",1811
+"722",1610,9620,14651,3258,"BPS  Riparian",137956,"EVT  Riparian",18545
+"723",1610,9817,6053,1346,"BPS  Riparian",137956,"EVT  Exotic Herbaceous",13532
+"724",1613,7238,1,0,"BPS  Riparian",18885,"EVT  Hardwood",308
+"725",1613,7296,36,8,"BPS  Riparian",18885,"EVT  Developed-Low Intensity",1615
+"726",1613,7297,10,2,"BPS  Riparian",18885,"EVT  Developed-Medium Intensity",715
+"727",1613,7298,4,1,"BPS  Riparian",18885,"EVT  Developed-High Intensity",279
+"728",1613,7299,309,69,"BPS  Riparian",18885,"EVT  Developed-Roads",34026
+"729",1613,7301,11,2,"BPS  Riparian",18885,"EVT  Hardwood",30210
+"730",1613,7302,662,147,"BPS  Riparian",18885,"EVT  Hardwood",532638
+"731",1613,7362,1,0,"BPS  Riparian",18885,"EVT  Conifer",4272
+"732",1613,7407,3,1,"BPS  Riparian",18885,"EVT  Conifer",185
+"733",1613,7412,1,0,"BPS  Riparian",18885,"EVT  Grassland",49
+"734",1613,7444,1,0,"BPS  Riparian",18885,"EVT  Riparian",506
+"735",1613,7481,3342,743,"BPS  Riparian",18885,"EVT  Riparian",199902
+"736",1613,7905,6,1,"BPS  Riparian",18885,"EVT  Developed",2011
+"737",1613,7906,2,0,"BPS  Riparian",18885,"EVT  Developed",452
+"738",1613,7907,10,2,"BPS  Riparian",18885,"EVT  Developed",1001
+"739",1613,7908,21,5,"BPS  Riparian",18885,"EVT  Developed",2074
+"740",1613,7909,3,1,"BPS  Riparian",18885,"EVT  Developed",924
+"741",1613,7925,17,4,"BPS  Riparian",18885,"EVT  Developed",1346
+"742",1613,7926,16,4,"BPS  Riparian",18885,"EVT  Developed",561
+"743",1613,7927,14,3,"BPS  Riparian",18885,"EVT  Developed",193
+"744",1613,7928,7,2,"BPS  Riparian",18885,"EVT  Developed",81
+"745",1613,7929,18,4,"BPS  Riparian",18885,"EVT  Developed",446
+"746",1613,7973,2,0,"BPS  Riparian",18885,"EVT  Agricultural",62
+"747",1613,7974,46,10,"BPS  Riparian",18885,"EVT  Agricultural",2441
+"748",1613,7975,18,4,"BPS  Riparian",18885,"EVT  Agricultural",1159
+"749",1613,7976,157,35,"BPS  Riparian",18885,"EVT  Agricultural",1268
+"750",1613,7977,134,30,"BPS  Riparian",18885,"EVT  Agricultural",21489
+"751",1613,7978,1,0,"BPS  Riparian",18885,"EVT  Agricultural",335
+"752",1613,9055,707,157,"BPS  Riparian",18885,"EVT  Riparian",8360
+"753",1613,9056,3650,812,"BPS  Riparian",18885,"EVT  Riparian",150045
+"754",1613,9057,2942,654,"BPS  Riparian",18885,"EVT  Riparian",8920
+"755",1613,9088,7,2,"BPS  Riparian",18885,"EVT  Conifer",1174
+"756",1613,9089,124,28,"BPS  Riparian",18885,"EVT  Conifer",53493
+"757",1613,9112,85,19,"BPS  Riparian",18885,"EVT  Conifer",80377
+"758",1613,9114,353,79,"BPS  Riparian",18885,"EVT  Riparian",1111
+"759",1613,9117,3717,827,"BPS  Riparian",18885,"EVT  Riparian",41728
+"760",1613,9118,16025,3564,"BPS  Riparian",18885,"EVT  Riparian",19034
+"761",1613,9120,45784,10182,"BPS  Riparian",18885,"EVT  Riparian",63637
+"762",1613,9295,1,0,"BPS  Riparian",18885,"EVT  Conifer-Hardwood",533
+"763",1613,9314,13,3,"BPS  Riparian",18885,"EVT  Riparian",128
+"764",1613,9315,9,2,"BPS  Riparian",18885,"EVT  Conifer-Hardwood",1052
+"765",1613,9317,85,19,"BPS  Riparian",18885,"EVT  Exotic Tree-Shrub",3821
+"766",1613,9318,101,22,"BPS  Riparian",18885,"EVT  Riparian",263
+"767",1613,9617,361,80,"BPS  Riparian",18885,"EVT  Riparian",1811
+"768",1613,9620,5604,1246,"BPS  Riparian",18885,"EVT  Riparian",18545
+"769",1613,9817,497,111,"BPS  Riparian",18885,"EVT  Exotic Herbaceous",13532
+"770",2724,7238,535,119,"BPS  Hardwood-Conifer",183439,"EVT  Hardwood",308
+"771",2724,7239,3394,755,"BPS  Hardwood-Conifer",183439,"EVT  Conifer-Hardwood",2152
+"772",2724,7242,58,13,"BPS  Hardwood-Conifer",183439,"EVT  Hardwood",49
+"773",2724,7243,51,11,"BPS  Hardwood-Conifer",183439,"EVT  Conifer-Hardwood",47
+"774",2724,7295,160,36,"BPS  Hardwood-Conifer",183439,"EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads",79
+"775",2724,7296,2455,546,"BPS  Hardwood-Conifer",183439,"EVT  Developed-Low Intensity",1615
+"776",2724,7297,1397,311,"BPS  Hardwood-Conifer",183439,"EVT  Developed-Medium Intensity",715
+"777",2724,7298,846,188,"BPS  Hardwood-Conifer",183439,"EVT  Developed-High Intensity",279
+"778",2724,7299,36966,8221,"BPS  Hardwood-Conifer",183439,"EVT  Developed-Roads",34026
+"779",2724,7301,3259,725,"BPS  Hardwood-Conifer",183439,"EVT  Hardwood",30210
+"780",2724,7302,491433,109292,"BPS  Hardwood-Conifer",183439,"EVT  Hardwood",532638
+"781",2724,7362,8534,1898,"BPS  Hardwood-Conifer",183439,"EVT  Conifer",4272
+"782",2724,7407,236,52,"BPS  Hardwood-Conifer",183439,"EVT  Conifer",185
+"783",2724,7412,59,13,"BPS  Hardwood-Conifer",183439,"EVT  Grassland",49
+"784",2724,7444,55,12,"BPS  Hardwood-Conifer",183439,"EVT  Riparian",506
+"785",2724,7481,45243,10062,"BPS  Hardwood-Conifer",183439,"EVT  Riparian",199902
+"786",2724,7905,2388,531,"BPS  Hardwood-Conifer",183439,"EVT  Developed",2011
+"787",2724,7906,638,142,"BPS  Hardwood-Conifer",183439,"EVT  Developed",452
+"788",2724,7907,1181,263,"BPS  Hardwood-Conifer",183439,"EVT  Developed",1001
+"789",2724,7908,2501,556,"BPS  Hardwood-Conifer",183439,"EVT  Developed",2074
+"790",2724,7909,1144,254,"BPS  Hardwood-Conifer",183439,"EVT  Developed",924
+"791",2724,7925,1767,393,"BPS  Hardwood-Conifer",183439,"EVT  Developed",1346
+"792",2724,7926,707,157,"BPS  Hardwood-Conifer",183439,"EVT  Developed",561
+"793",2724,7927,166,37,"BPS  Hardwood-Conifer",183439,"EVT  Developed",193
+"794",2724,7928,115,26,"BPS  Hardwood-Conifer",183439,"EVT  Developed",81
+"795",2724,7929,556,124,"BPS  Hardwood-Conifer",183439,"EVT  Developed",446
+"796",2724,7973,55,12,"BPS  Hardwood-Conifer",183439,"EVT  Agricultural",62
+"797",2724,7974,1180,262,"BPS  Hardwood-Conifer",183439,"EVT  Agricultural",2441
+"798",2724,7975,665,148,"BPS  Hardwood-Conifer",183439,"EVT  Agricultural",1159
+"799",2724,7976,411,91,"BPS  Hardwood-Conifer",183439,"EVT  Agricultural",1268
+"800",2724,7977,14034,3121,"BPS  Hardwood-Conifer",183439,"EVT  Agricultural",21489
+"801",2724,7978,376,84,"BPS  Hardwood-Conifer",183439,"EVT  Agricultural",335
+"802",2724,9055,1123,250,"BPS  Hardwood-Conifer",183439,"EVT  Riparian",8360
+"803",2724,9056,11172,2485,"BPS  Hardwood-Conifer",183439,"EVT  Riparian",150045
+"804",2724,9057,463,103,"BPS  Hardwood-Conifer",183439,"EVT  Riparian",8920
+"805",2724,9088,1593,354,"BPS  Hardwood-Conifer",183439,"EVT  Conifer",1174
+"806",2724,9089,43343,9639,"BPS  Hardwood-Conifer",183439,"EVT  Conifer",53493
+"807",2724,9112,105796,23528,"BPS  Hardwood-Conifer",183439,"EVT  Conifer",80377
+"808",2724,9114,83,18,"BPS  Hardwood-Conifer",183439,"EVT  Riparian",1111
+"809",2724,9117,11340,2522,"BPS  Hardwood-Conifer",183439,"EVT  Riparian",41728
+"810",2724,9118,3114,693,"BPS  Hardwood-Conifer",183439,"EVT  Riparian",19034
+"811",2724,9120,5123,1139,"BPS  Hardwood-Conifer",183439,"EVT  Riparian",63637
+"812",2724,9295,734,163,"BPS  Hardwood-Conifer",183439,"EVT  Conifer-Hardwood",533
+"813",2724,9312,160,36,"BPS  Hardwood-Conifer",183439,"EVT  Conifer",101
+"814",2724,9314,41,9,"BPS  Hardwood-Conifer",183439,"EVT  Riparian",128
+"815",2724,9315,913,203,"BPS  Hardwood-Conifer",183439,"EVT  Conifer-Hardwood",1052
+"816",2724,9317,3017,671,"BPS  Hardwood-Conifer",183439,"EVT  Exotic Tree-Shrub",3821
+"817",2724,9318,91,20,"BPS  Hardwood-Conifer",183439,"EVT  Riparian",263
+"818",2724,9617,246,55,"BPS  Hardwood-Conifer",183439,"EVT  Riparian",1811
+"819",2724,9620,2116,471,"BPS  Hardwood-Conifer",183439,"EVT  Riparian",18545
+"820",2724,9817,11804,2625,"BPS  Hardwood-Conifer",183439,"EVT  Exotic Herbaceous",13532

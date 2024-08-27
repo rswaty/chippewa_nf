@@ -1,0 +1,38 @@
+source,target,value
+Past Conifer,Present Agricultural,16331
+Past Conifer,Present Conifer,75859
+Past Conifer,Present Conifer-Hardwood,1772
+Past Conifer,Developed,19879
+Past Conifer,Exotics,7256
+Past Conifer,Present Grassland,5
+Past Conifer,Present Hardwood,259567
+Past Conifer,Present Riparian,79830
+Past Grassland,Present Conifer,63
+Past Grassland,Present Conifer-Hardwood,0
+Past Grassland,Developed,1
+Past Grassland,Present Hardwood,2
+Past Grassland,Present Riparian,17
+Past Hardwood,Present Agricultural,3982
+Past Hardwood,Present Conifer,10131
+Past Hardwood,Present Conifer-Hardwood,642
+Past Hardwood,Developed,8793
+Past Hardwood,Exotics,3053
+Past Hardwood,Present Grassland,25
+Past Hardwood,Present Hardwood,127871
+Past Hardwood,Present Riparian,29665
+Past Hardwood-Conifer,Present Agricultural,3718
+Past Hardwood-Conifer,Present Conifer,35615
+Past Hardwood-Conifer,Present Conifer-Hardwood,1134
+Past Hardwood-Conifer,Developed,11857
+Past Hardwood-Conifer,Exotics,3304
+Past Hardwood-Conifer,Present Grassland,13
+Past Hardwood-Conifer,Present Hardwood,110602
+Past Hardwood-Conifer,Present Riparian,17969
+Past Riparian,Present Agricultural,2721
+Past Riparian,Present Conifer,17932
+Past Riparian,Present Conifer-Hardwood,233
+Past Riparian,Developed,5267
+Past Riparian,Exotics,3739
+Past Riparian,Present Grassland,7
+Past Riparian,Present Hardwood,65163
+Past Riparian,Present Riparian,386511
